@@ -1,5 +1,5 @@
-# Monsters Rolodex
-> The project involves fetching user data from an API and displaying it, along with a corresponding monster image. Additionally, the project includes a search bar that automatically displays search results based on the user's input as they type.
+# 
+> 
 > Live demo [_here_]().
 
 ## Table of Contents
@@ -12,19 +12,12 @@
 
 
 ## Technologies Used
-- React
 - Javascript
 - HTML
 - CSS
-- APIs:
-https://jsonplaceholder.typicode.com/users
-https://robohash.org/
 
 ## Features
-- API call to https://jsonplaceholder.typicode.com/users
-- Monster Images from https://robohash.org/
-- Searching through users
-- CSS Grid & Flexbox
+-
 
 
 ## Screenshots
