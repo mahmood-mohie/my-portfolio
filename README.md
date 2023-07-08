@@ -1,6 +1,6 @@
-# Monsters Rolodex
-> The project involves fetching user data from an API and displaying it, along with a corresponding monster image. Additionally, the project includes a search bar that automatically displays search results based on the user's input as they type.
-> Live demo [_here_]().
+# My Portfolio
+> This my Personal Website.
+> Live demo [_here_](https://mahmood-mohie.github.io/my-portfolio/).
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
@@ -12,33 +12,24 @@
 
 
 ## Technologies Used
-- React
 - Javascript
 - HTML
 - CSS
-- APIs:
-https://jsonplaceholder.typicode.com/users
-https://robohash.org/
+- Figma
+
 
 ## Features
-- API call to https://jsonplaceholder.typicode.com/users
-- Monster Images from https://robohash.org/
-- Searching through users
-- CSS Grid & Flexbox
+- 
 
 
 ## Screenshots
-![monstersrolodex]()
+![Portfolio]()
 
 
 ## Setup
-Fork and clone the repo to install it as your own remote.
-
-`run: npm install` to download all dependencies.
-
-`run: npm start` to start your local development server.
+Just Open with the live server
 
 
 ## Project Status
-Project is: _complete_
+Project is: _under development_
 

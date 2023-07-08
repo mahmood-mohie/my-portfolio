@@ -255,7 +255,7 @@ nav .desktop-nav li a:hover {
 
 .link-logo {
     display: block;
-    background: url(/images/dark/code-dark.png);
+    background: url(images/dark/code-dark.png);
     background-position: center;
     width: 22px;
     height: 44px;
@@ -265,7 +265,7 @@ nav .desktop-nav li a:hover {
 }
 body.light .link-logo {
     display: block;
-    background: url(/images/light/code-light.png);
+    background: url(images/light/code-light.png);
     background-position: center;
     width: 22px;
     height: 44px;
@@ -273,17 +273,17 @@ body.light .link-logo {
     background-size: contain;
 }
 .link-search {
-    background: url(/images/dark/search-icon.svg); 
+    background: url(images/dark/search-icon.svg); 
 }
 body.light .link-search {
-    background: url(/images/light/search-icon.svg); 
+    background: url(images/light/search-icon.svg); 
 }
 
 .link-close {
-    background: url(/images/dark/close-icon.svg);  
+    background: url(images/dark/close-icon.svg);  
 }
 body.light .link-close {
-    background: url(/images/light/close-icon.svg);  
+    background: url(images/light/close-icon.svg);  
 }
 
 body.light .link-close , body.light .link-search ,
@@ -314,7 +314,7 @@ body.light .link-close , body.light .link-search ,
     width: 16px;
     height: 16px;
     transform: translate(0, -50%);
-    background-image: url(/images/dark/moon-icon.png);
+    background-image: url(images/dark/moon-icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -331,7 +331,7 @@ body.light .link-close , body.light .link-search ,
   
   input[type="checkbox"]:checked + .theme-switch-label .theme-switch-icon {
     transform: translate(20px, -50%);
-    background-image: url(/images/light/sun-icon.png); /* Replace with your moon icon */
+    background-image: url(images/light/sun-icon.png); /* Replace with your moon icon */
   }
  
 /* ##### END : Dark/Light Mode Switcher ##### */
